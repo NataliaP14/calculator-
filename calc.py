@@ -1,7 +1,5 @@
 class Calc:
     """A simple calculator class"""
-
-
     def add(self, a, b):
         """Add two numbers together"""
         return a + b
@@ -17,7 +15,7 @@ class Calc:
     def div(self, a, b):
         """Divide two numbers"""
         return a / b
-    
+
     def pow(self, a, b):
         """Raise a to the power of b"""
         return a ** b
